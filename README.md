@@ -18,5 +18,6 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 ## Recursos Adicionais
 
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
 
