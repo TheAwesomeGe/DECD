@@ -19,5 +19,6 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [NumPy User Guide](https://numpy.org/doc/stable/user/index.html)
 - [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
 
