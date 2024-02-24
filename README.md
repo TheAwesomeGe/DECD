@@ -15,6 +15,8 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 2. [Processamento numérico](./notebooks/02-numpy.ipynb)
 3. [Análise e manipulação de dados](./notebooks/03-pandas.ipynb)
 4. [Visualização](./notebooks/04-visualization.ipynb)
+5. [Exercícios: Análise e manipulação de dados](./notebooks/05-exercises.ipynb)
+    - [Solução](./notebooks/05-exercises-solution.ipynb)
 
 ## Recursos Adicionais
 
