@@ -3,7 +3,7 @@
 
 Materiais de apoio à componente prática da disciplina de Descoberta e Extração de Conhecimento de Dados (DECD) da Licenciatura em Informática e Gestão de Empresas do ISCTE - Instituto Universitário de Lisboa.
 
-Os materiais disponibilizados neste repositório são baseados nos materiais da disciplina de [Computação para Economia e Ciências Empresariais](https://github.com/fmmb/CEB), do [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/) e do [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/).
+Parte dos materiais disponibilizados neste repositório são baseados nos materiais da disciplina de [Computação para Economia e Ciências Empresariais](https://github.com/fmmb/CEB), do [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/) e do [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/).
 
 Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` e/ou `eugenio.alves.ribeiro@iscte-iul.pt`.
 
@@ -17,6 +17,9 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 4. [Visualização](./notebooks/04-visualization.ipynb)
 5. [Exercícios: Análise e manipulação de dados](./notebooks/05-exercises.ipynb)
     - [Solução](./notebooks/05-exercises-solution.ipynb)
+6. [Aprendizagem não supervisionada](./notebooks/06-unsupervised.ipynb)
+7. [Exercícios: Aprendizagem não supervisionada](./notebooks/07-exercises.ipynb)
+    - [Solução](./notebooks/07-exercises-solution.ipynb)
 
 ## Recursos Adicionais
 
@@ -27,4 +30,5 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 - [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
 - [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+- [Scikit-Learn User Guide](https://scikit-learn.org/stable/user_guide.html) 
 
