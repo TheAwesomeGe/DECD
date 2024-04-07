@@ -20,6 +20,9 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 6. [Aprendizagem não supervisionada](./notebooks/06-unsupervised.ipynb)
 7. [Exercícios: Aprendizagem não supervisionada](./notebooks/07-exercises.ipynb)
     - [Solução](./notebooks/07-exercises-solution.ipynb)
+8. [Aprendizagem supervisionada: Classificação](./notebooks/08-classification.ipynb)
+9. [Exercícios: Classificação](./notebooks/09-exercises.ipynb)
+    - [Solução](./notebooks/09-exercises-solution.ipynb)
 
 ## Recursos Adicionais
 
