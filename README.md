@@ -23,6 +23,9 @@ Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` 
 8. [Aprendizagem supervisionada: Classificação](./notebooks/08-classification.ipynb)
 9. [Exercícios: Classificação](./notebooks/09-exercises.ipynb)
     - [Solução](./notebooks/09-exercises-solution.ipynb)
+10. [Aprendizagem supervisionada: Regressão](./notebooks/10-regression.ipynb)
+11. [Exercícios: Regressão](./notebooks/11-exercises.ipynb)
+    - [Solução](./notebooks/11-exercises-solution.ipynb)
 
 ## Recursos Adicionais
 
