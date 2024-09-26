@@ -5,7 +5,7 @@ Materiais de apoio à componente prática da disciplina de Descoberta e Extraç�
 
 Parte dos materiais disponibilizados neste repositório são baseados nos materiais da disciplina de [Computação para Economia e Ciências Empresariais](https://github.com/fmmb/CEB), do [Python Data Science Handbook: Essential Tools for Working with Data](https://jakevdp.github.io/PythonDataScienceHandbook/) e do [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/).
 
-Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` e/ou `eugenio.alves.ribeiro@iscte-iul.pt`.
+Por favor enviem comentários e seguestões para `ricardo.ribeiro@iscte-iul.pt` e/ou `eugenio.ribeiro@iscte-iul.pt`.
 
 ----
 
